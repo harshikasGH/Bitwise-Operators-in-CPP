@@ -1,5 +1,5 @@
 // Harshika Kamwal
-// 24070123508
+// 25070123508
 
 #include<iostream>
 using namespace std;
@@ -23,3 +23,4 @@ int main(){
 // 4
 
 // Reset number is 34
+
