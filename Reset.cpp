@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 24070123508
 
 #include<iostream>
 using namespace std;
@@ -21,4 +21,5 @@ int main(){
 // 50
 // Enter the bit to reset
 // 4
+
 // Reset number is 34
