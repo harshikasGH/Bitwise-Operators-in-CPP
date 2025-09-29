@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 25070123508
 
 #include <iostream>
 using namespace std;
@@ -23,4 +23,5 @@ int main() {
 // 50
 // Enter the bit to set
 // 3 
+
 // Set number is 58
