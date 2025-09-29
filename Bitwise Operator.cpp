@@ -1,5 +1,5 @@
 // Harshika Kamwal
-// 24070123508
+// 25070123508
 
 #include<iostream>
 using namespace std;
@@ -27,3 +27,4 @@ int main(){
 // Left Shift a by 2: 28
 
 // Right Shift a by 1: 3
+
