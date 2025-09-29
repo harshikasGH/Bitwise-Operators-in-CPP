@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 24070123508
 
 #include<iostream>
 using namespace std;
@@ -25,4 +25,5 @@ int main(){
 // Not a -8
 // Not b -5
 // Left Shift a by 2: 28
+
 // Right Shift a by 1: 3
